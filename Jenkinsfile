@@ -4,6 +4,7 @@ pipeline {
     stage('Test') {
       steps {
         sh 'echo "Hello World"'
+        sh 'cat README.md'
       }
     }
   }
