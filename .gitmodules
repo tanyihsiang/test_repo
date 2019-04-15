@@ -1,3 +1,4 @@
 [submodule "test_submodule"]
 	path = test_submodule
 	url = https://github.com/tanyihsiang/test_submodule.git
+	branch = test-1
